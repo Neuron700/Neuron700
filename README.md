@@ -22,13 +22,13 @@
 <td width="50%" valign="top">
 
 <b style="color:#f1c40f">Prompt Engineer</b><br>
-<span style="color:#c8cdd4">Ngulik cara nanya yang tepat biar hasilnya maksimal. Ide lu gue racik promptnya jadi produk yang rapi dan cepat jadi</span>
+<span style="color:#c8cdd4">Spesialis AI generatif yang merancang instruksi presisi untuk memaksimalkan output Large Language Models seperti GPT‑4 dan Claude. Saya memadukan rekayasa perintah, konteks, dan psikologi kognitif agar AI tidak sekadar menjawab, tetapi berpikir tepat sasaran. Menguasai teknik zero shot, few shot, hingga chain of thought reasoning untuk menghasilkan respons akurat, relevan, dan bebas halusinasi.</span>
 
 </td>
 <td width="50%" valign="top">
 
 <b style="color:#f1c40f">Fokus Utama</b><br>
-<span style="color:#c8cdd4">Dari Medan Indonesia dan Founder JokiVerse. Bangun produk digital yang clean ringan dan kepake. Prinsip gue kerja cerdas hasil beres</span>
+<span style="color:#c8cdd4">Saya mempercepat adopsi AI di bisnis Anda, mulai dari otomatisasi layanan, pembuatan konten, analisis data, hingga coding assistance. Setiap system prompt saya rancang selaras dengan merek, regulasi, dan etika privasi. Hasilnya, efisiensi melonjak, biaya komputasi hemat, dan akurasi meningkat drastis. Berasal dari Medan, pendiri JokiVerse, saya membangun produk digital yang ringan, bersih, dan benar benar terpakai. Kerja cerdas, hasil beres. Saya siap menjadi mitra AI Anda untuk pertumbuhan nyata.</span>
 
 </td>
 </tr>

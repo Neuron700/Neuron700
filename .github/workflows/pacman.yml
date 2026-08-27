@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -7,22 +7,16 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Neuron700
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

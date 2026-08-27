@@ -46,14 +46,20 @@
 
 <a href="https://github.com/Neuron700/Dungeon-Night"><b style="color:#f1c40f">Dungeon Night</b></a><br>
 <span style="color:#c8cdd4">Game dungeon top down 5 lantai vanilla JS Canvas</span><br>
-<span style="color:#8a909a">JavaScript Canvas HTML</span>
+<span style="color:#c8cdd4">
+<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JS">
+<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/Canvas-12161b?style=flat-square" alt="Canvas">
+</span>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Neuron700/Prompt-forge"><b style="color:#f1c40f">Prompt Forge</b></a><br>
 <span style="color:#c8cdd4">Kumpulan prompt dan tools biar kerja lebih cepat</span><br>
-<span style="color:#8a909a">TypeScript</span>
+<span style="color:#c8cdd4">
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TS">
+</span>
 
 </td>
 </tr>
@@ -62,14 +68,18 @@
 
 <a href="https://github.com/Neuron700/Helion"><b style="color:#f1c40f">Helion</b></a><br>
 <span style="color:#c8cdd4">Project eksperimen web</span><br>
-<span style="color:#8a909a">JavaScript</span>
+<span style="color:#c8cdd4">
+<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JS">
+</span>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Neuron700/Eco-Tracker"><b style="color:#f1c40f">Eco Tracker</b></a><br>
 <span style="color:#c8cdd4">Tracker kebiasaan ramah lingkungan</span><br>
-<span style="color:#8a909a">JavaScript</span>
+<span style="color:#c8cdd4">
+<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JS">
+</span>
 
 </td>
 </tr>
@@ -78,14 +88,19 @@
 
 <a href="https://github.com/Neuron700/Portfolio"><b style="color:#f1c40f">Portfolio</b></a><br>
 <span style="color:#c8cdd4">Portfolio pribadi di waveu netlify app</span><br>
-<span style="color:#8a909a">HTML CSS</span>
+<span style="color:#c8cdd4">
+<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white" alt="CSS">
+</span>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Neuron700/Purge-Surge"><b style="color:#f1c40f">Purge Surge</b></a><br>
 <span style="color:#c8cdd4">Mini project web interaktif</span><br>
-<span style="color:#8a909a">HTML</span>
+<span style="color:#c8cdd4">
+<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+</span>
 
 </td>
 </tr>
@@ -152,7 +167,7 @@ Semua repo public klik judul buat lihat kode dan demo
 <tr>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">9 Repositori</b><br>
+<b style="color:#f1c40f">11 Repositori</b><br>
 <span style="color:#8a909a">Public di GitHub</span>
 
 </td>

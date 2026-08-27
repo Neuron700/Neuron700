@@ -13,11 +13,28 @@
   <img src="https://img.shields.io/github/followers/Neuron700?label=Followers&style=flat-square&color=2ecc71" alt="followers" />
 </p>
 
-### Tentang Gue
+### Tentang Saya
 
-Prompt Engineer yang ngulik cara nanya yang tepat biar hasilnya maksimal. Ide lu gue racik promptnya jadi produk yang rapi dan cepat jadi.
+<div align="center">
 
-Gue dari Medan Indonesia dan Founder JokiVerse. Fokus gue bangun produk digital yang clean ringan dan kepake. Gue bisa kerjain deep learning machine learning web aplikasi IOT AI Agentic dan masih banyak lagi. Prinsip gue kerja cerdas hasil beres.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b style="color:#f1c40f">Prompt Engineer</b><br>
+<span style="color:#c8cdd4">Ngulik cara nanya yang tepat biar hasilnya maksimal. Ide lu gue racik promptnya jadi produk yang rapi dan cepat jadi</span>
+
+</td>
+<td width="50%" valign="top">
+
+<b style="color:#f1c40f">Fokus Utama</b><br>
+<span style="color:#c8cdd4">Dari Medan Indonesia dan Founder JokiVerse. Bangun produk digital yang clean ringan dan kepake. Prinsip gue kerja cerdas hasil beres</span>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Hasil Kerja
 
@@ -80,11 +97,81 @@ Semua repo public klik judul buat lihat kode dan demo
 
 ### Tech Stack
 
-Keahlian gue meliputi deep learning machine learning web aplikasi IOT AI Agentic dan pengembangan produk digital lainnya
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">Deep Learning</b><br>
+<span style="color:#8a909a">Model dan riset</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">Machine Learning</b><br>
+<span style="color:#8a909a">Klasifikasi dan prediksi</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">Web</b><br>
+<span style="color:#8a909a">Frontend dan backend</span>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">Aplikasi</b><br>
+<span style="color:#8a909a">Mobile dan desktop</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">IOT</b><br>
+<span style="color:#8a909a">Perangkat dan sensor</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">AI Agentic</b><br>
+<span style="color:#8a909a">Agent otomatis</span>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Statistik
 
-Statistik GitHub tersedia di profile dan akan update otomatis
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">9 Repositori</b><br>
+<span style="color:#8a909a">Public di GitHub</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">Medan Indonesia</b><br>
+<span style="color:#8a909a">Base camp</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b style="color:#f1c40f">JokiVerse</b><br>
+<span style="color:#8a909a">Founder</span>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Pacman
 

@@ -1,0 +1,38 @@
+name: "🎮 Dungeon Run"
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_dungeon.py"
+      - ".github/workflows/dungeon.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate dungeon.svg
+        run: python scripts/generate_dungeon.py
+
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update dungeon run [skip ci]"
+          file_pattern: "assets/dungeon.svg"
+          commit_user_name: "dungeon-bot"
+          commit_user_email: "bot@neuron700.io"
+          commit_author: "dungeon-bot <bot@neuron700.io>"

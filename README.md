@@ -19,16 +19,64 @@ Prompt Engineer yang ngulik cara nanya yang tepat biar hasilnya maksimal. Ide lu
 
 Gue dari Medan Indonesia dan Founder JokiVerse. Fokus gue bangun produk digital yang clean ringan dan kepake. Gue bisa kerjain deep learning machine learning web aplikasi IOT AI Agentic dan masih banyak lagi. Prinsip gue kerja cerdas hasil beres.
 
-### Karya Pilihan
+### Hasil Kerja
 
-Dungeon Night adalah game dungeon top down 5 lantai vanilla JS Canvas
-Prompt forge kumpulan prompt dan tools biar kerja lebih cepat
-Helion project eksperimen web
-Eco Tracker tracker kebiasaan ramah lingkungan
-Portfolio portfolio pribadi di waveu netlify app
-Purge Surge mini project web interaktif
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Dungeon-Night"><b style="color:#f1c40f">Dungeon Night</b></a><br>
+<span style="color:#c8cdd4">Game dungeon top down 5 lantai vanilla JS Canvas</span><br>
+<span style="color:#8a909a">JavaScript Canvas HTML</span>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Prompt-forge"><b style="color:#f1c40f">Prompt Forge</b></a><br>
+<span style="color:#c8cdd4">Kumpulan prompt dan tools biar kerja lebih cepat</span><br>
+<span style="color:#8a909a">TypeScript</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Helion"><b style="color:#f1c40f">Helion</b></a><br>
+<span style="color:#c8cdd4">Project eksperimen web</span><br>
+<span style="color:#8a909a">JavaScript</span>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Eco-Tracker"><b style="color:#f1c40f">Eco Tracker</b></a><br>
+<span style="color:#c8cdd4">Tracker kebiasaan ramah lingkungan</span><br>
+<span style="color:#8a909a">JavaScript</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Portfolio"><b style="color:#f1c40f">Portfolio</b></a><br>
+<span style="color:#c8cdd4">Portfolio pribadi di waveu netlify app</span><br>
+<span style="color:#8a909a">HTML CSS</span>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Purge-Surge"><b style="color:#f1c40f">Purge Surge</b></a><br>
+<span style="color:#c8cdd4">Mini project web interaktif</span><br>
+<span style="color:#8a909a">HTML</span>
+
+</td>
+</tr>
+</table>
 
 Semua repo public klik judul buat lihat kode dan demo
+
+</div>
 
 ### Tech Stack
 
@@ -41,15 +89,7 @@ Statistik GitHub tersedia di profile dan akan update otomatis
 ### Pacman
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neuron700/Neuron700/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neuron700/Neuron700/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Neuron700/Neuron700/output/pacman-contribution-graph.svg">
-  </picture>
+  <img alt="pacman dark" src="https://raw.githubusercontent.com/Neuron700/Neuron700/output/pacman-contribution-graph-dark.svg" width="100%">
+  <br>
+  <span style="color:#6a707a">Pacman makan kontribusi — update otomatis tiap hari via GitHub Actions</span>
 </p>
-
-### Connect
-
-Portfolio waveu netlify app
-Instagram at syahlanbudi
-GitHub Neuron700

@@ -167,7 +167,7 @@ Semua repo public klik judul buat lihat kode dan demo
 <tr>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">11 Repositori</b><br>
+<b style="color:#f1c40f">13 Repositori</b><br>
 <span style="color:#8a909a">Public di GitHub</span>
 
 </td>
@@ -193,5 +193,5 @@ Semua repo public klik judul buat lihat kode dan demo
 <p align="center">
   <img alt="pacman dark" src="https://raw.githubusercontent.com/Neuron700/Neuron700/output/pacman-contribution-graph-dark.svg" width="100%">
   <br>
-  <span style="color:#6a707a">Pacman makan kontribusi — update otomatis tiap hari via GitHub Actions</span>
+  <span style="color:#6a707a">Pacman makan kontribusi update otomatis tiap hari via GitHub Actions</span>
 </p>

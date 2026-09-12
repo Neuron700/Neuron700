@@ -167,7 +167,7 @@ Semua repo public klik judul buat lihat kode dan demo
 <tr>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">13 Repositori</b><br>
+<b style="color:#f1c40f">16 Repositori</b><br>
 <span style="color:#8a909a">Public di GitHub</span>
 
 </td>

@@ -4,10 +4,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineer-0b0d10?style=for-the-badge&logo=lightbulb&logoColor=f1c40f" alt="Prompt Engineer" />
-  <a href="https://waveu.netlify.app/"><img src="https://img.shields.io/badge/JokiVerse-Founder-12161b?style=for-the-badge&logo=rocket&logoColor=2ecc71" alt="JokiVerse" /></a>
+  <a href="https://promptforge-lovat-five.vercel.app/"><img src="https://img.shields.io/badge/JokiVerse-Founder-12161b?style=for-the-badge&logo=rocket&logoColor=2ecc71" alt="JokiVerse" /></a>
   <img src="https://img.shields.io/badge/Medan-Indonesia-e74c3c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Medan" />
   <br/>
-  <a href="https://waveu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-waveu.netlify.app-9b59b6?style=flat-square&logo=netlify" alt="Portfolio" /></a>
+  <a href="https://promptforge-lovat-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-promptforge--lovat--five.vercel.app-9b59b6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.instagram.com/syahlanbudi/"><img src="https://img.shields.io/badge/Instagram-%40syahlanbudi-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
   <img src="https://img.shields.io/github/followers/Neuron700?label=Followers&style=flat-square&color=2ecc71" alt="followers" />
 </p>
@@ -86,7 +86,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Neuron700/Portfolio"><b style="color:#f1c40f">Portfolio</b></a><br>
-<span style="color:#c8cdd4">Portfolio pribadi di waveu netlify app</span><br>
+<span style="color:#c8cdd4">Portfolio pribadi di promptforge-lovat-five.vercel.app</span><br>
 <span style="color:#c8cdd4">
 <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white" alt="CSS">

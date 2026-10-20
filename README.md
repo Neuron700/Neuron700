@@ -9,7 +9,6 @@
   <br/>
   <a href="https://waveu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-waveu.netlify.app-9b59b6?style=flat-square&logo=netlify" alt="Portfolio" /></a>
   <a href="https://www.instagram.com/syahlanbudi/"><img src="https://img.shields.io/badge/Instagram-%40syahlanbudi-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Neuron700&label=Profile%20views&color=f1c40f&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/Neuron700?label=Followers&style=flat-square&color=2ecc71" alt="followers" />
 </p>
 

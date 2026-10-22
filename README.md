@@ -59,11 +59,37 @@
 
 </div>
 
-### Hasil Kerja
+### Project Terbaru
 
 <div align="center">
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/REPO"><b>RepoGuard</b></a><br>
+<span>VS Code security assistant local-first: rule-based scanning, explainable findings, secret masking, dan workspace-safe defaults tanpa network calls.</span><br>
+<span>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Security-12161b?style=flat-square&logo=shield&logoColor=white" alt="Security">
+</span>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/ponny"><b>PennyPilot</b></a><br>
+<span>Dashboard keuangan pribadi local-first untuk impor CSV, kategorisasi deterministik, deteksi duplikat, anggaran, dan proyeksi akhir bulan.</span><br>
+<span>
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Local--first-12161b?style=flat-square" alt="Local-first">
+</span>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -113,30 +139,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </span><br>
 <a href="https://byte-battle-tau.vercel.app">Live demo</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Neuron700/Dungeon-Night"><b>Dungeon Night</b></a><br>
-<span>Game dungeon top-down berbasis vanilla JavaScript Canvas. Tanpa build, tanpa server, tanpa dependency, dengan fog of war dan meta-progression.</span><br>
-<span>
-<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript">
-<img src="https://img.shields.io/badge/Canvas-12161b?style=flat-square" alt="Canvas">
-<img src="https://img.shields.io/badge/Web%20Audio-12161b?style=flat-square" alt="Web Audio">
-</span>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Neuron700/Prompt-forge"><b>Prompt Forge</b></a><br>
-<span>Kumpulan prompt dan tools AI untuk mempercepat pekerjaan sehari-hari, dari perancangan instruksi sampai alur kerja yang bisa diulang.</span><br>
-<span>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/AI%20Prompting-12161b?style=flat-square" alt="AI Prompting">
-</span>
 
 </td>
 </tr>

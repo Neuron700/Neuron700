@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2400&pause=900&color=F1C40F&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Neuron700;Prompt+Engineer;From+Medan+to+the+World" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2400&pause=900&color=F1C40F&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Neuron700;AI+Engineer;Building+AI+tools+%26+developer+utilities;From+Medan+to+the+World" alt="Typing" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineer-0b0d10?style=for-the-badge&logo=lightbulb&logoColor=f1c40f" alt="Prompt Engineer" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-0b0d10?style=for-the-badge&logo=openai&logoColor=f1c40f" alt="AI Engineer" />
   <a href="https://promptforge-lovat-five.vercel.app/"><img src="https://img.shields.io/badge/JokiVerse-Founder-12161b?style=for-the-badge&logo=rocket&logoColor=2ecc71" alt="JokiVerse" /></a>
   <img src="https://img.shields.io/badge/Medan-Indonesia-e74c3c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Medan" />
   <br/>
@@ -20,14 +20,38 @@
 <tr>
 <td width="50%" valign="top">
 
-<b style="color:#f1c40f">Prompt Engineer</b><br>
-<span style="color:#c8cdd4">Spesialis AI generatif yang merancang instruksi presisi untuk memaksimalkan output Large Language Models seperti GPT‑4 dan Claude. Saya memadukan rekayasa perintah, konteks, dan psikologi kognitif agar AI tidak sekadar menjawab, tetapi berpikir tepat sasaran. Menguasai teknik zero shot, few shot, hingga chain of thought reasoning untuk menghasilkan respons akurat, relevan, dan bebas halusinasi.</span>
+<b>AI Engineer</b><br>
+<span>Saya membangun produk AI dan developer tools dari ide sampai implementasi: prompt architecture, backend TypeScript, CLI, web app, pengujian, dan dokumentasi. Fokus saya adalah sistem yang deterministik, local-first, dan benar-benar dipakai.</span>
 
 </td>
 <td width="50%" valign="top">
 
-<b style="color:#f1c40f">Fokus Utama</b><br>
-<span style="color:#c8cdd4">Saya mempercepat adopsi AI di bisnis Anda, mulai dari otomatisasi layanan, pembuatan konten, analisis data, hingga coding assistance. Setiap system prompt saya rancang selaras dengan merek, regulasi, dan etika privasi. Hasilnya, efisiensi melonjak, biaya komputasi hemat, dan akurasi meningkat drastis. Berasal dari Medan, pendiri JokiVerse, saya membangun produk digital yang ringan, bersih, dan benar benar terpakai. Kerja cerdas, hasil beres. Saya siap menjadi mitra AI Anda untuk pertumbuhan nyata.</span>
+<b>Fokus Utama</b><br>
+<span>AI tooling, developer utilities, dan web app yang menyelesaikan masalah nyata. Saya menggabungkan prompt engineering dengan rekayasa perangkat lunak: kontrak API yang jelas, perilaku yang bisa diuji, dan pengalaman pengguna yang sederhana.</span>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### Project Unggulan
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<a href="https://github.com/Neuron700/MIRAGE"><b>MIRAGE</b></a><br>
+<span>Local OpenAPI 3.0 mock server dan deterministic scenario engine. Dilengkapi CLI, simulasi error dan delay, config ketat, request inspector yang aman, serta integration test.</span><br>
+<span>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
+<img src="https://img.shields.io/badge/OpenAPI%203.0-6ba539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+<img src="https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+<img src="https://img.shields.io/badge/CLI-12161b?style=flat-square&logo=gnubash&logoColor=white" alt="CLI">
+</span>
 
 </td>
 </tr>
@@ -43,69 +67,111 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Neuron700/Dungeon-Night"><b style="color:#f1c40f">Dungeon Night</b></a><br>
-<span style="color:#c8cdd4">Game dungeon top down 5 lantai vanilla JS Canvas</span><br>
-<span style="color:#c8cdd4">
-<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JS">
-<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<a href="https://github.com/Neuron700/SentinelX"><b>SentinelX</b></a><br>
+<span>Platform cyber defense intelligence local-first untuk latihan alur kerja SOC, dengan data sintetis dan visualisasi hubungan entitas.</span><br>
+<span>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/D3-f9a03c?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3">
+</span><br>
+<a href="https://sentinelx-two.vercel.app">Live demo</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Agent-help"><b>AgentReplay</b></a><br>
+<span>Debugging, deterministic replay, dan regression testing untuk AI agent. Merekam trace JSONL, meredaksi secret, lalu replay secara offline.</span><br>
+<span>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/JSONL-12161b?style=flat-square" alt="JSONL">
+<img src="https://img.shields.io/badge/CLI-12161b?style=flat-square&logo=gnubash&logoColor=white" alt="CLI">
+</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/envpilot"><b>EnvPilot</b></a><br>
+<span>Read-only environment doctor untuk project Node.js dan Python. Memeriksa runtime, lockfile, dependency, dan kontrak environment tanpa mengubah project.</span><br>
+<span>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/CLI-12161b?style=flat-square&logo=gnubash&logoColor=white" alt="CLI">
+</span>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Byte-Battle"><b>Byte Battle</b></a><br>
+<span>Platform duel coding satu lawan satu secara real-time, lengkap dengan room kustom dan evaluasi tes otomatis.</span><br>
+<span>
+<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+</span><br>
+<a href="https://byte-battle-tau.vercel.app">Live demo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Neuron700/Dungeon-Night"><b>Dungeon Night</b></a><br>
+<span>Game dungeon top-down berbasis vanilla JavaScript Canvas. Tanpa build, tanpa server, tanpa dependency, dengan fog of war dan meta-progression.</span><br>
+<span>
+<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript">
 <img src="https://img.shields.io/badge/Canvas-12161b?style=flat-square" alt="Canvas">
+<img src="https://img.shields.io/badge/Web%20Audio-12161b?style=flat-square" alt="Web Audio">
 </span>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Neuron700/Prompt-forge"><b style="color:#f1c40f">Prompt Forge</b></a><br>
-<span style="color:#c8cdd4">Kumpulan prompt dan tools biar kerja lebih cepat</span><br>
-<span style="color:#c8cdd4">
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TS">
-</span>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Neuron700/Helion"><b style="color:#f1c40f">Helion</b></a><br>
-<span style="color:#c8cdd4">Project eksperimen web</span><br>
-<span style="color:#c8cdd4">
-<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JS">
-</span>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Neuron700/Eco-Tracker"><b style="color:#f1c40f">Eco Tracker</b></a><br>
-<span style="color:#c8cdd4">Tracker kebiasaan ramah lingkungan</span><br>
-<span style="color:#c8cdd4">
-<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JS">
-</span>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Neuron700/Portfolio"><b style="color:#f1c40f">Portfolio</b></a><br>
-<span style="color:#c8cdd4">Portfolio pribadi di promptforge-lovat-five.vercel.app</span><br>
-<span style="color:#c8cdd4">
-<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white" alt="CSS">
-</span>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Neuron700/Purge-Surge"><b style="color:#f1c40f">Purge Surge</b></a><br>
-<span style="color:#c8cdd4">Mini project web interaktif</span><br>
-<span style="color:#c8cdd4">
-<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<a href="https://github.com/Neuron700/Prompt-forge"><b>Prompt Forge</b></a><br>
+<span>Kumpulan prompt dan tools AI untuk mempercepat pekerjaan sehari-hari, dari perancangan instruksi sampai alur kerja yang bisa diulang.</span><br>
+<span>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/AI%20Prompting-12161b?style=flat-square" alt="AI Prompting">
 </span>
 
 </td>
 </tr>
 </table>
 
-Semua repo public klik judul buat lihat kode dan demo
+<a href="https://github.com/Neuron700?tab=repositories"><b>Lihat semua 24 repository publik</b></a>
+
+</div>
+
+### Cara Saya Bekerja
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<b>Problem First</b><br>
+<span>Mulai dari masalah dan batasan nyata, bukan dari daftar teknologi.</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b>Deterministic & Tested</b><br>
+<span>Perilaku harus bisa diprediksi, diuji, dan direproduksi.</span>
+
+</td>
+<td width="33%" valign="top">
+
+<b>Clear Documentation</b><br>
+<span>Setup, batasan, dan keputusan teknis ditulis agar mudah dipakai orang lain.</span>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -115,42 +181,56 @@ Semua repo public klik judul buat lihat kode dan demo
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
-<b style="color:#f1c40f">Deep Learning</b><br>
-<span style="color:#8a909a">Model dan riset</span>
-
-</td>
-<td width="33%" valign="top">
-
-<b style="color:#f1c40f">Machine Learning</b><br>
-<span style="color:#8a909a">Klasifikasi dan prediksi</span>
+<b>Bahasa & Runtime</b><br>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 
 </td>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">Web</b><br>
-<span style="color:#8a909a">Frontend dan backend</span>
+<b>AI Engineering</b><br>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-12161b?style=flat-square" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/AI%20Tooling-12161b?style=flat-square" alt="AI Tooling">
+<img src="https://img.shields.io/badge/Agent%20Replay-12161b?style=flat-square" alt="Agent Replay">
+
+</td>
+<td width="33%" valign="top">
+
+<b>Backend & Tooling</b><br>
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
+<img src="https://img.shields.io/badge/OpenAPI-6ba539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+<img src="https://img.shields.io/badge/CLI-12161b?style=flat-square&logo=gnubash&logoColor=white" alt="CLI">
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
-<b style="color:#f1c40f">Aplikasi</b><br>
-<span style="color:#8a909a">Mobile dan desktop</span>
-
-</td>
-<td width="33%" valign="top">
-
-<b style="color:#f1c40f">IOT</b><br>
-<span style="color:#8a909a">Perangkat dan sensor</span>
+<b>Frontend</b><br>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 
 </td>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">AI Agentic</b><br>
-<span style="color:#8a909a">Agent otomatis</span>
+<b>Data & Visualisasi</b><br>
+<img src="https://img.shields.io/badge/D3-f9a03c?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3">
+<img src="https://img.shields.io/badge/Canvas-12161b?style=flat-square" alt="Canvas">
+<img src="https://img.shields.io/badge/Web%20Audio-12161b?style=flat-square" alt="Web Audio">
+
+</td>
+<td width="33%" valign="top">
+
+<b>Quality</b><br>
+<img src="https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+<img src="https://img.shields.io/badge/Strict%20TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="Strict TypeScript">
+<img src="https://img.shields.io/badge/Local--first-12161b?style=flat-square" alt="Local-first">
 
 </td>
 </tr>
@@ -166,20 +246,20 @@ Semua repo public klik judul buat lihat kode dan demo
 <tr>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">16 Repositori</b><br>
-<span style="color:#8a909a">Public di GitHub</span>
+<b>24 Repositori</b><br>
+<span>Public di GitHub</span>
 
 </td>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">Medan Indonesia</b><br>
-<span style="color:#8a909a">Base camp</span>
+<b>Medan, Indonesia</b><br>
+<span>Base camp</span>
 
 </td>
 <td width="33%" valign="top">
 
-<b style="color:#f1c40f">JokiVerse</b><br>
-<span style="color:#8a909a">Founder</span>
+<b>JokiVerse</b><br>
+<span>Founder</span>
 
 </td>
 </tr>
@@ -187,10 +267,22 @@ Semua repo public klik judul buat lihat kode dan demo
 
 </div>
 
+### Kontak
+
+<p align="center">
+  <a href="https://promptforge-lovat-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-9b59b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Neuron700?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/syahlanbudi/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <sub>Terbuka untuk diskusi seputar AI tooling, developer tools, dan produk web yang serius.</sub>
+</p>
+
 ### Pacman
 
 <p align="center">
   <img alt="pacman dark" src="https://raw.githubusercontent.com/Neuron700/Neuron700/output/pacman-contribution-graph-dark.svg" width="100%">
   <br>
-  <span style="color:#6a707a">Pacman makan kontribusi update otomatis tiap hari via GitHub Actions</span>
+  <span>Kontribusi harian, diperbarui otomatis setiap hari melalui GitHub Actions.</span>
 </p>
